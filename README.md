@@ -6,8 +6,6 @@
 -  Love to learn stuffs online. My favourite learning locations are Udemy, Coursera , edx and Youtube
 -  Favourite sports - Football and Cricket
 
-
-<details>
   
   #### Languages
   
@@ -33,10 +31,8 @@
           
           
   </p>
-</details>
 
-#### Lets connect - 
-
+#### Lets connect
   <a href="https://www.linkedin.com/in/safiq-l-121a56186/">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
