@@ -1,7 +1,6 @@
 ### Hi I am Safiq ! 👋
 
 
--  I’m currently working at Publicis Sapient
 -  Looking into open source development and trying to find collaborative communities online
 -  Love to learn stuffs online. My favourite learning locations are Udemy, Coursera , edx and Youtube
 -  Favourite sports - Football and Cricket
